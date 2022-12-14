@@ -5,7 +5,7 @@ Auth:
 
    
 SCA:
-    language: "python" 
+    language: "python-snyk" 
 
 SAST:
   language: "python-snyk"
