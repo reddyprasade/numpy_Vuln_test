@@ -5,7 +5,7 @@ Auth:
 
 
 SAST:
-  language: "python","snyk-python",'snyk-ruby'
+  language: ['csharp', 'go', 'javascript', 'python', 'ruby', 'snyk-python']
   
 SCA:
     language: "python"
