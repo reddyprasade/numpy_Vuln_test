@@ -5,10 +5,10 @@ Auth:
 
 
 SAST:
-  language: ['csharp', 'go', 'javascript', 'python', 'ruby', 'snyk-python']
+  language: 'csharp'
   
 SCA:
-    language: "python"
+    language: "csharp"
     
 DAST:
   type: "WEB" ## API, WEB, WEB-ADV
